@@ -1,0 +1,14 @@
+C:\aspNetCore\apiAgenda\bin\Release\netcoreapp2.2\apiAgenda.deps.json
+C:\aspNetCore\apiAgenda\bin\Release\netcoreapp2.2\apiAgenda.runtimeconfig.json
+C:\aspNetCore\apiAgenda\bin\Release\netcoreapp2.2\apiAgenda.runtimeconfig.dev.json
+C:\aspNetCore\apiAgenda\bin\Release\netcoreapp2.2\apiAgenda.dll
+C:\aspNetCore\apiAgenda\bin\Release\netcoreapp2.2\apiAgenda.pdb
+C:\aspNetCore\apiAgenda\obj\Release\netcoreapp2.2\apiAgenda.csprojAssemblyReference.cache
+C:\aspNetCore\apiAgenda\obj\Release\netcoreapp2.2\apiAgenda.csproj.CoreCompileInputs.cache
+C:\aspNetCore\apiAgenda\obj\Release\netcoreapp2.2\apiAgenda.RazorAssemblyInfo.cache
+C:\aspNetCore\apiAgenda\obj\Release\netcoreapp2.2\apiAgenda.RazorAssemblyInfo.cs
+C:\aspNetCore\apiAgenda\obj\Release\netcoreapp2.2\apiAgenda.AssemblyInfoInputs.cache
+C:\aspNetCore\apiAgenda\obj\Release\netcoreapp2.2\apiAgenda.AssemblyInfo.cs
+C:\aspNetCore\apiAgenda\obj\Release\netcoreapp2.2\apiAgenda.RazorTargetAssemblyInfo.cache
+C:\aspNetCore\apiAgenda\obj\Release\netcoreapp2.2\apiAgenda.dll
+C:\aspNetCore\apiAgenda\obj\Release\netcoreapp2.2\apiAgenda.pdb
