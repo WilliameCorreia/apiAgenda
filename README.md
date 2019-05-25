@@ -72,9 +72,9 @@ Exemplo: https://localhost:5001/api/estacao/3 consulta Apenas a estação por id
 #### Endpoints Disponíveis
 
 ```
-Listagem: GET /estacao/
-Inserção: POST /estacao/
-Visualização: GET /estacao/{id}
-Atualização: PUT /estacao/{id}
-Exclusão: DELETE /estacao/{id}
+Listagem: GET api/estacao/
+Inserção: POST api/estacao/
+Visualização: GET api/estacao/{id}
+Atualização: PUT api/estacao/{id}
+Exclusão: DELETE api/estacao/{id}
 ```
