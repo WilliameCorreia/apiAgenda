@@ -153,6 +153,9 @@ Exclusão: DELETE api/estacao/{id}
     - Defina o método HTTP como GET.
     - Defina a URL de solicitação como ``https://localhost:<port>/api/estacao`` Por exemplo, ``https://localhost:5001/api/estacao``.
 - Defina Exibição de dois painéis no Postman.
+- Desabilite a Verificação do certificado SSL
+  - Em Arquivo > Configurações (guia *Geral), desabilite Verificação do certificado SSL.
+  - Aviso Habilite novamente a verificação do certificado SSL depois de testar o controlador.
 - Selecione Enviar.
     
     ![Get](https://user-images.githubusercontent.com/42654850/58427987-9a516580-8077-11e9-9c05-562dc59f5743.PNG)
