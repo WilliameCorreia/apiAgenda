@@ -111,7 +111,7 @@ Exclusão: DELETE api/estacao/{id}
 - No corpo da solicitação, insira JSON para um item pendente:
 
     ```
-    {
+  {
     "tipo": "1",
     "nome": "EPC",
     "operadores": [
@@ -141,7 +141,7 @@ Exclusão: DELETE api/estacao/{id}
         "classe": "AT",
         "uc": 2
     }
-    }
+  }
     ```
     
 - Selecione Enviar.
