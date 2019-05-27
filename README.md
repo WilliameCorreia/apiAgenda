@@ -141,7 +141,7 @@ Exclusão: DELETE api/estacao/{id}
         "classe": "AT",
         "uc": 2
     }
-}
+    }
     ```
     
 - Selecione Enviar.
