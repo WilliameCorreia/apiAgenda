@@ -57,7 +57,7 @@ Exemplo: ``https://localhost:<port>/api/estacao/3`` consulta Apenas a estação 
                 {
                     "telefoneId": 21,
                     "tipo": 2,
-                    "fone": "xxxxxxxxx"
+                    "fone": "8888-8888"
                 }
             ]
         }
@@ -79,7 +79,7 @@ Exemplo: ``https://localhost:<port>/api/estacao/3`` consulta Apenas a estação 
         "dadosEnelId": 11,
         "nome_cliente": "Cagece",
         "endereco": "Av. Presidente Castelo Branco nº 1200",
-        "classe": "nao sei",
+        "classe": "BT",
         "uc": 2,
         "estacaoId": 3
     }
@@ -120,7 +120,7 @@ Exclusão: DELETE api/estacao/{id}
             "telefones": [
                 {
                     "tipo": 2,
-                    "fone": "xxxxxxxxx"
+                    "fone": "9999-9999"
                 }
             ]
         }
@@ -131,14 +131,14 @@ Exclusão: DELETE api/estacao/{id}
         "telefones": [
             {
                 "tipo": 1,
-                "fone": "xxxxxxxxx"
+                "fone": "7777-7777"
             }
         ]
     },
     "dadosEnel": {
         "nome_cliente": "Cagece",
         "endereco": "Av. Presidente Castelo Branco nº 1200",
-        "classe": "nao sei",
+        "classe": "AT",
         "uc": 2
     }
 }
